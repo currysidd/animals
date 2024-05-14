@@ -1,0 +1,38 @@
+body{
+    background-color: greenyellow;
+
+}
+.footer{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+width: 100%;
+font-size: 20px;
+color: black;
+background-color: white;
+line-height: 3;
+text-shadow: 10px 10px 10px grey;
+}
+.pt-sans {
+    font-family: "PT Sans Narrow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .header_div{
+    background-color: gold;
+    color: black;
+  }
+  .header_div p{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
